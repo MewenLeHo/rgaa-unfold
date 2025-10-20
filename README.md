@@ -7,7 +7,7 @@ A quick script to open or close all accordions because clicking through repliabl
 ## CI/CD Status
 
 ### Workflows
-[![Lint, Minify and Build workflow](https://github.com/MewenLeHo/rgaa-unfold/actions/workflows/lint-minify-build.yml/badge.svg)](https://github.com/MewenLeHo/rgaa-unfold/actions/workflows/lint-minify.yml)
+[![Lint, Minify and Build workflow](https://github.com/MewenLeHo/rgaa-unfold/actions/workflows/lint-minify-build.yml/badge.svg)](https://github.com/MewenLeHo/rgaa-unfold/actions/workflows/lint-minify-build.yml)
 [![Release workflow](https://github.com/MewenLeHo/rgaa-unfold/actions/workflows/release.yml/badge.svg)](https://github.com/MewenLeHo/rgaa-unfold/actions/workflows/release.yml)
 
 ### Latest Release
