@@ -4,4 +4,7 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [Unreleased]
 
+### Changed
+- **UI Enhancements**: Improved button position.
+
 ## [1.0.0] – 2025-10-20

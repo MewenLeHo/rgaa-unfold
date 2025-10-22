@@ -30,8 +30,8 @@
       color: #fff;
       font-size: 1em;
       position: fixed;
-      top: 10px;
-      right: 10px;
+      top: 1rem;
+      right: 1rem;
       z-index: 9999;
     }
     .unfold-toggle:hover {
